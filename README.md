@@ -37,8 +37,10 @@ Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
 ## How to Run
 1. Clone the repository:
 git clone https://github.com/your-username/Airlines-EDA-Project.git
+
 2.Open the Jupyter Notebook:
 Flight Data Analysis with Python.ipynb
+
 3.Run all cells to reproduce the analysis.
 Run all cells to reproduce the analysis.
 
